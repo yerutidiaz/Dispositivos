@@ -1,4 +1,3 @@
-MAINACTIVITY.KT
 package com.example.unscramble
 
 import android.os.Bundle
